@@ -37,7 +37,6 @@ int main(int ac, char **av)
         return 1;
     }
 
-    
 
     cout << "Left side: " << sides[0] << endl;
     cout << "Right side: " << sides[1] << endl;
