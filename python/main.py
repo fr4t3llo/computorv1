@@ -54,6 +54,7 @@ def parse_equation(equation):
                     power = 1
                 elif 'X^' in term:
                     power = int(term.split('X^')[1])
+                    
                     coeff = 1
                 elif 'X' in term:
                     coeff = 1
