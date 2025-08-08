@@ -53,6 +53,7 @@ def parse_equation(equation):
                     coeff = float(coeff_str) if coeff_str else 1
                     power = 1
                 elif 'X^' in term:
+                    
                     power = int(term.split('X^')[1])
                     coeff = 1
                 elif 'X' in term:
