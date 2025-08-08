@@ -1,0 +1,30 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "ios": "cpp",
+    "algorithm": "cpp",
+    "cmath": "cpp",
+    "__locale": "cpp",
+    "__verbose_abort": "cpp",
+    "cctype": "cpp",
+    "clocale": "cpp",
+    "cstddef": "cpp",
+    "cstdint": "cpp",
+    "cstdio": "cpp",
+    "cstdlib": "cpp",
+    "cstring": "cpp",
+    "ctime": "cpp",
+    "cwchar": "cpp",
+    "cwctype": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp",
+    "limits": "cpp",
+    "mutex": "cpp",
+    "new": "cpp",
+    "ratio": "cpp",
+    "stdexcept": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "typeinfo": "cpp"
+  }
+}

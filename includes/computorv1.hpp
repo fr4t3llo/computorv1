@@ -9,6 +9,10 @@
 
 
 
-using namespace std;
 
+class PolynomialSolver 
+{
+    public: 
+    void parseEquation();
+};
 #endif
